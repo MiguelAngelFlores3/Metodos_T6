@@ -1,4 +1,4 @@
-<h1> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i> Tema 5: Métodos de interpolación </i> </b> </font> </h1>
+<h1> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i> Tema 6: Cálculos numéricos para solución de ecuaciones diferenciales </i> </b> </font> </h1>
 
 <h4> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i>Integrantes </i> </b> </font> </h4>
 
