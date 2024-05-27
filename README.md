@@ -199,7 +199,7 @@ El método de interpolación de Newton es una técnica que utiliza diferencias d
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
 
-![Captura de pantalla 2024-05-11 124022](https://github.com/MiguelAngelFlores3/Metodos_T5/assets/167603831/9c0ff02b-2435-4d20-95f1-253927f93f6e)
+![image](https://github.com/MiguelAngelFlores3/Metodos_T6/assets/167603831/e47f6b32-1613-4ce0-b5f3-191b011b380c)
 
 
 <h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de Interpolacion de Regresión "> Método de Interpolación de Regresión </a> </font> </h3>
