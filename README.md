@@ -555,4 +555,4 @@ El Método de Interpolación Lineal estima valores intermedios entre dos puntos 
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
 
-![Captura de pantalla 2024-05-11 211649](https://github.com/MiguelAngelFlores3/T5_Metodos-de-interpolacion/assets/167603831/3b9a77fa-6139-423f-bdf4-d39fcfd7075c)
+![image](https://github.com/MiguelAngelFlores3/Metodos_T6/assets/167603831/29e63f34-a1d9-4bb3-a13b-cbec507127c3)
