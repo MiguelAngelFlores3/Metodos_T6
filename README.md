@@ -313,8 +313,8 @@ La interpolación de regresión es una técnica que busca aproximar una función
     }
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
-
-![image](https://github.com/MiguelAngelFlores3/Metodos_T5/assets/167603831/e73f1995-8efd-47f6-ada1-fca9e3f299b9)
+    
+![image](https://github.com/MiguelAngelFlores3/Metodos_T6/assets/167603831/c29cd003-d143-43b9-a906-e295865d9032)
 
 
 <h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de Interpolacion de Correlación ">  Método de Interpolación de Correlación </a> </font> </h3>
