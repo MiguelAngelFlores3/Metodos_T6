@@ -383,7 +383,7 @@ El método de interpolación de correlación estima valores intermedios entre pu
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
 
-![image](https://github.com/MiguelAngelFlores3/T5_Metodos-de-interpolacion/assets/167603831/c01089dc-f14b-42b0-a441-8b85f2e70c76)
+![image](https://github.com/MiguelAngelFlores3/Metodos_T6/assets/167603831/220603aa-e741-4f96-ac0a-199fd4dd801e)
 
 
 <h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de Interpolacion de Mínimos cuadrados "> Método de Interpolación de Mínimos cuadrados </a> </font> </h3>
