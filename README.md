@@ -111,7 +111,7 @@ El método de interpolación de Lagrange es una técnica para encontrar un polin
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
 
-![Captura de pantalla 2024-05-11 123510](https://github.com/MiguelAngelFlores3/Metodos_T5/assets/167603831/601488b7-3bd5-439c-a7eb-0863605903bf)
+![image](https://github.com/MiguelAngelFlores3/Metodos_T6/assets/167603831/cdb00f09-f480-417d-9c37-b2d151c7e905)
 
 
 <h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de Interpolacion de Newton "> Método de Interpolación de Newton </a> </font> </h3>
