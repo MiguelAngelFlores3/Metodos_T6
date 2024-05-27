@@ -495,7 +495,7 @@ El método de interpolación de mínimos cuadrados busca ajustar una función a 
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
 
-![Captura de pantalla 2024-05-11 210034](https://github.com/MiguelAngelFlores3/T5_Metodos-de-interpolacion/assets/167603831/cc68126e-25d4-4d2a-8d36-a7de9e39543e)
+![image](https://github.com/MiguelAngelFlores3/Metodos_T6/assets/167603831/79b48832-fbae-41dc-84f1-bd2c3b367648)
 
 <h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de Interpolacion Lineal  "> Método de Interpolación Lineal </a> </font> </h3>
 
